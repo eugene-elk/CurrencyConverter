@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/converter"
+        android:orderInCategory="1"
+        android:title="Конвертер" />
+    <item
+        android:id="@+id/currencies"
+        android:orderInCategory="2"
+        android:title="Курсы всех валют" />
+    <item
+        android:id="@+id/history"
+        android:orderInCategory="3"
+        android:title="История" />
+
+</menu>

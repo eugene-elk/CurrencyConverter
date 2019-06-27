@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Валютный калькулятор</string>
+    <string name="title_activity_info">InfoActivity</string>
+    <string name="copy_result">Копировать результат</string>
+    <string name="input_amount">Введите сумму</string>
+    <string name="into">В</string>
+    <string name="from">ИЗ</string>
+    <string name="input_value">Введите число</string>
+    <string name="convert">Конвертировать</string>
+</resources>
